@@ -143,9 +143,9 @@ It must include:
 ## 📌 Author
 
 **Enrico Collautti**  
-Biomedical Engineering & AI  
-Thesis Project (2025)  
-University of Padova · DTU · Boston University
+ICT for Internet and Multimedia - Machine Learning for Healtcare - AI & Biomedical Engineering
+Master's Thesis Project (2025)  
+University of Padova · DTU
 
 ---
 
